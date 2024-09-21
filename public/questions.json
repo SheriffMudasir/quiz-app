@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Who designed the famous Guggenheim Museum in Bilbao?",
+    "options": ["Frank Lloyd Wright", "Frank Gehry", "I.M. Pei", "Le Corbusier"],
+    "answer": "Frank Gehry"
+  },
+  {
+    "question": "What style of architecture is characterized by the use of arches, domes, and minarets?",
+    "options": ["Gothic", "Art Deco", "Islamic", "Modern"],
+    "answer": "Islamic"
+  },
+  {
+    "question": "Which ancient city was known for its impressive structures, including the Temple of Artemis?",
+    "options": ["Rome", "Athens", "Ephesus", "Babylon"],
+    "answer": "Ephesus"
+  },
+  {
+    "question": "What is the name of the architectural movement that emphasized traditional craftsmanship and natural materials, as a reaction against industrialization?",
+    "options": ["Arts and Crafts", "Modernism", "Deconstructivism", "Postmodernism"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Which architect is associated with the Prairie School, a later phase of the Arts and Crafts movement?",
+    "options": ["Frank Lloyd Wright", "Le Corbusier", "Walter Gropius", "Antoni Gaudí"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "Which architectural movement is characterized by its use of organic, curvilinear forms inspired by nature, such as plants and flowers?",
+    "options": ["Art Nouveau", "Modernism", "Arts and Crafts", "Deconstructivism"],
+    "answer": "Art Nouveau"
+  },
+  {
+    "question": "Who was the architect behind the Sagrada Família, a prime example of Art Nouveau architecture?",
+    "options": ["Antoni Gaudí", "Frank Lloyd Wright", "Victor Horta", "Walter Gropius"],
+    "answer": "Antoni Gaudí"
+  },
+  {
+    "question": "Which movement in architecture was a reaction against the mass production of the Industrial Revolution and valued craftsmanship?",
+    "options": ["Arts and Crafts", "Modernism", "Postmodernism", "Art Deco"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Which building is considered one of the first examples of Arts and Crafts architecture?",
+    "options": ["Red House", "Casa Milà", "Villa Savoye", "Tassel House"],
+    "answer": "Red House"
+  },
+  {
+    "question": "Which style often features asymmetry, intricate wrought ironwork, and stained glass windows?",
+    "options": ["Art Nouveau", "Bauhaus", "Minimalism", "Modernism"],
+    "answer": "Art Nouveau"
+  },
+  {
+    "question": "What was a key feature of Modernist architecture that distinguished it from previous styles?",
+    "options": ["Rejection of ornamentation", "Use of natural materials", "Curvilinear forms", "Integration with nature"],
+    "answer": "Rejection of ornamentation"
+  },
+  {
+    "question": "Who is known as the \"father of modernism\" and coined the phrase \"form follows function\"?",
+    "options": ["Louis Sullivan", "Frank Lloyd Wright", "Le Corbusier", "Mies van der Rohe"],
+    "answer": "Louis Sullivan"
+  },
+  {
+    "question": "Which architectural movement emphasized that \"less is more\" and focused on simplicity and geometric forms?",
+    "options": ["Minimalism", "Postmodernism", "Deconstructivism", "Art Nouveau"],
+    "answer": "Minimalism"
+  },
+  {
+    "question": "Which architect founded the Bauhaus School and contributed to the International Style?",
+    "options": ["Walter Gropius", "Louis Sullivan", "Antoni Gaudí", "Frank Lloyd Wright"],
+    "answer": "Walter Gropius"
+  },
+  {
+    "question": "Which building is an example of Modernist architecture that uses large expanses of glass to bring natural light into interior spaces?",
+    "options": ["Villa Savoye", "Casa Milà", "Red House", "Hill House"],
+    "answer": "Villa Savoye"
+  },
+  {
+    "question": "Which movement in architecture sought to express the complexities of the modern world through fragmented and distorted forms?",
+    "options": ["Deconstructivism", "Postmodernism", "Modernism", "Bauhaus"],
+    "answer": "Deconstructivism"
+  },
+  {
+    "question": "Which architect designed the Guggenheim Museum in Bilbao, a key example of Deconstructivism?",
+    "options": ["Frank Gehry", "Mies van der Rohe", "Zaha Hadid", "Le Corbusier"],
+    "answer": "Frank Gehry"
+  },
+  {
+    "question": "What philosophy did Deconstructivist architects apply to question the stability of meaning and architectural form?",
+    "options": ["Deconstruction", "Minimalism", "Functionalism", "Purism"],
+    "answer": "Deconstruction"
+  },
+  {
+    "question": "Which architect is associated with the dictum \"ornament is crime\"?",
+    "options": ["Adolf Loos", "Walter Gropius", "Frank Lloyd Wright", "Louis Sullivan"],
+    "answer": "Adolf Loos"
+  },
+  {
+    "question": "Which building designed by Walter Gropius is considered one of the first \"modern\" buildings?",
+    "options": ["Fagus-Werk Factory", "Red House", "Casa Milà", "Secession Building"],
+    "answer": "Fagus-Werk Factory"
+  },
+  {
+    "question": "What characteristic defines Brutalist architecture, a subset of Modernism?",
+    "options": ["Use of raw concrete", "Curvilinear forms", "Ornate decoration", "Handcrafted details"],
+    "answer": "Use of raw concrete"
+  },
+  {
+    "question": "Which Modernist architect emphasized organic architecture and designed Fallingwater?",
+    "options": ["Frank Lloyd Wright", "Walter Gropius", "Antoni Gaudí", "Mies van der Rohe"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "Which architectural style is known for its rejection of both Modernism and Postmodernism, often using fragmented and non-linear forms?",
+    "options": ["Deconstructivism", "Art Deco", "Art Nouveau", "Minimalism"],
+    "answer": "Deconstructivism"
+  },
+  {
+    "question": "Which movement in architecture sought to break away from historical styles and create something purely functional and new?",
+    "options": ["Modernism", "Art Nouveau", "Postmodernism", "Deconstructivism"],
+    "answer": "Modernism"
+  },
+  {
+    "question": "Who designed the Guggenheim Museum in Bilbao?",
+    "options": ["Frank Lloyd Wright", "Frank Gehry", "I.M. Pei", "Le Corbusier"],
+    "answer": "Frank Gehry"
+  },
+  {
+    "question": "Which architectural movement emphasized traditional craftsmanship and the use of natural materials?",
+    "options": ["Modernism", "Art Nouveau", "Arts and Crafts", "Brutalism"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Which architect is known for the phrase 'Form follows function'?",
+    "options": ["Le Corbusier", "Louis Sullivan", "Walter Gropius", "Frank Lloyd Wright"],
+    "answer": "Louis Sullivan"
+  },
+  {
+    "question": "Which famous architect designed Fallingwater?",
+    "options": ["Frank Lloyd Wright", "Le Corbusier", "Mies van der Rohe", "Philip Johnson"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "Who is known as the father of the skyscraper?",
+    "options": ["Frank Lloyd Wright", "Louis Sullivan", "Le Corbusier", "Walter Gropius"],
+    "answer": "Louis Sullivan"
+  },
+  {
+    "question": "Which architectural style is characterized by organic and curvilinear forms?",
+    "options": ["Brutalism", "Art Nouveau", "Arts and Crafts", "Modernism"],
+    "answer": "Art Nouveau"
+  },
+  {
+    "question": "What is a key characteristic of the Arts and Crafts movement?",
+    "options": ["Integration with nature", "Reinforced concrete", "Minimalism", "Skyscrapers"],
+    "answer": "Integration with nature"
+  },
+  {
+    "question": "Which building is an example of Art Nouveau architecture in Barcelona?",
+    "options": ["Sagrada Familia", "Casa Milà", "Casa Batlló", "Tassel House"],
+    "answer": "Casa Batlló"
+  },
+  {
+    "question": "Which architect is associated with the Prairie School movement?",
+    "options": ["Frank Lloyd Wright", "Le Corbusier", "Mies van der Rohe", "Walter Gropius"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "Which building is known as one of the first examples of Arts and Crafts architecture?",
+    "options": ["Red House", "Kelmscott Manor", "Hill House", "The Gamble House"],
+    "answer": "Red House"
+  },
+  {
+    "question": "Which architect designed the Seagram Building in New York?",
+    "options": ["Frank Lloyd Wright", "Mies van der Rohe", "Louis Sullivan", "Le Corbusier"],
+    "answer": "Mies van der Rohe"
+  },
+  {
+    "question": "Which movement focused on the rejection of ornament and emphasized functionalism?",
+    "options": ["Postmodernism", "Deconstructivism", "Modernism", "Art Nouveau"],
+    "answer": "Modernism"
+  },
+  {
+    "question": "Which architect founded the Bauhaus School?",
+    "options": ["Frank Lloyd Wright", "Walter Gropius", "Louis Sullivan", "Le Corbusier"],
+    "answer": "Walter Gropius"
+  },
+  {
+    "question": "Which architectural movement is known for its rejection of the ornate styles of the Victorian era?",
+    "options": ["Modernism", "Arts and Crafts", "Art Nouveau", "Deconstructivism"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Which architect designed the Robie House in Chicago?",
+    "options": ["Frank Lloyd Wright", "Mies van der Rohe", "Louis Sullivan", "Le Corbusier"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "What material was heavily used in the Brutalist architectural movement?",
+    "options": ["Steel", "Concrete", "Glass", "Brick"],
+    "answer": "Concrete"
+  },
+  {
+    "question": "Who designed the Sagrada Família in Barcelona?",
+    "options": ["Victor Horta", "Antoni Gaudí", "Le Corbusier", "Hector Guimard"],
+    "answer": "Antoni Gaudí"
+  },
+  {
+    "question": "Which style is known for integrating buildings with the natural landscape?",
+    "options": ["Art Nouveau", "Modernism", "Arts and Crafts", "Deconstructivism"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Who is famous for saying 'Less is more'?",
+    "options": ["Frank Lloyd Wright", "Mies van der Rohe", "Walter Gropius", "Louis Sullivan"],
+    "answer": "Mies van der Rohe"
+  },
+  {
+    "question": "Which building is considered an early example of Modernism?",
+    "options": ["Villa Savoye", "Fagus Factory", "Red House", "Secession Building"],
+    "answer": "Fagus Factory"
+  },
+  {
+    "question": "Which architectural movement was a reaction against industrialization?",
+    "options": ["Modernism", "Arts and Crafts", "Art Nouveau", "Deconstructivism"],
+    "answer": "Arts and Crafts"
+  },
+  {
+    "question": "Who designed the Fallingwater house, a symbol of organic architecture?",
+    "options": ["Frank Lloyd Wright", "Le Corbusier", "Mies van der Rohe", "Philip Johnson"],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "question": "Which building by Antoni Gaudí is known for its whimsical facade and colorful mosaics?",
+    "options": ["Sagrada Familia", "Casa Batlló", "Secession Building", "Horta Museum"],
+    "answer": "Casa Batlló"
+  },
+  {
+    "question": "Which movement embraced asymmetry and ornate detailing?",
+    "options": ["Art Nouveau", "Arts and Crafts", "Brutalism", "Deconstructivism"],
+    "answer": "Art Nouveau"
+  },
+  {
+    "question": "What did the Arts and Crafts movement emphasize?",
+    "options": ["Mass production", "Handcrafted details", "Glass and steel", "Ornamentation"],
+    "answer": "Handcrafted details"
+  },
+  {
+    "question": "Which architect designed the Villa Savoye?",
+    "options": ["Le Corbusier", "Mies van der Rohe", "Frank Lloyd Wright", "Louis Sullivan"],
+    "answer": "Le Corbusier"
+  },
+  {
+    "question": "Who is considered the father of modernism in American architecture?",
+    "options": ["Frank Lloyd Wright", "Louis Sullivan", "Mies van der Rohe", "Walter Gropius"],
+    "answer": "Louis Sullivan"
+  },
+  {
+    "question": "Which movement's architecture is characterized by flowing lines and floral motifs?",
+    "options": ["Modernism", "Deconstructivism", "Art Nouveau", "Brutalism"],
+    "answer": "Art Nouveau"
+  },
+  {
+    "question": "Which architect is known for the phrase 'Ornament is crime'?",
+    "options": ["Adolf Loos", "Frank Lloyd Wright", "Le Corbusier", "Walter Gropius"],
+    "answer": "Adolf Loos"
+  },
+  {
+    "question": "What is the primary material used in Brutalist architecture?",
+    "options": ["Glass", "Concrete", "Steel", "Brick"],
+    "answer": "Concrete"
+  },
+  {
+    "question": "Which architect's works include the Horta Museum and Tassel House?",
+    "options": ["Antoni Gaudí", "Victor Horta", "Le Corbusier", "Louis Sullivan"],
+    "answer": "Victor Horta"
+  },
+  {
+    "question": "Who is considered the founder of Deconstructivism in architecture?",
+    "options": ["Frank Gehry", "Daniel Libeskind", "Jacques Derrida", "Zaha Hadid"],
+    "answer": "Jacques Derrida"
+  },
+  {
+    "question": "Which philosopher's work greatly influenced the Deconstructivism movement?",
+    "options": ["Jacques Derrida", "Michel Foucault", "Jean Baudrillard", "Slavoj Žižek"],
+    "answer": "Jacques Derrida"
+  },
+  {
+    "question": "What is a key characteristic of Deconstructivism in architecture?",
+    "options": ["Clean lines", "Symmetry", "Fragmentation", "Classical orders"],
+    "answer": "Fragmentation"
+  },
+  {
+    "question": "Which famous architect designed the Guggenheim Museum in Bilbao, often associated with Deconstructivism?",
+    "options": ["Frank Gehry", "Zaha Hadid", "Rem Koolhaas", "Peter Eisenman"],
+    "answer": "Frank Gehry"
+  },
+  {
+    "question": "Which architect designed the Jewish Museum in Berlin, a prominent example of Deconstructivist architecture?",
+    "options": ["Frank Gehry", "Daniel Libeskind", "Zaha Hadid", "Peter Eisenman"],
+    "answer": "Daniel Libeskind"
+  },
+  {
+    "question": "Which of these is a famous Deconstructivist building by Zaha Hadid?",
+    "options": ["The Shard", "Heydar Aliyev Center", "Tate Modern", "Empire State Building"],
+    "answer": "Heydar Aliyev Center"
+  },
+  {
+    "question": "What principle of Deconstructivism is about rejecting the idea that form follows function?",
+    "options": ["Symmetry", "Deconstruction", "Contextualism", "Ornamentation"],
+    "answer": "Deconstruction"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Deconstructivist architecture?",
+    "options": ["Non-rectilinear shapes", "Fragmentation", "Traditional symmetry", "Distortion of structure"],
+    "answer": "Traditional symmetry"
+  },
+  {
+    "question": "Which architectural style focuses on disorienting and challenging traditional forms and expectations?",
+    "options": ["Postmodernism", "Brutalism", "Deconstructivism", "Neoclassicism"],
+    "answer": "Deconstructivism"
+  },
+  {
+    "question": "Who designed the Parc de la Villette in Paris, a hallmark of Deconstructivism?",
+    "options": ["Frank Gehry", "Zaha Hadid", "Peter Eisenman", "Bernard Tschumi"],
+    "answer": "Bernard Tschumi"
+  },
+  {
+    "question": "Which Deconstructivist building by Frank Gehry is located in Los Angeles?",
+    "options": ["Guggenheim Museum", "Walt Disney Concert Hall", "Jewish Museum", "Heydar Aliyev Center"],
+    "answer": "Walt Disney Concert Hall"
+  },
+  {
+    "question": "Deconstructivist architecture often appears visually:",
+    "options": ["Simple and clean", "Chaotic and fragmented", "Smooth and minimalistic", "Symmetrical and balanced"],
+    "answer": "Chaotic and fragmented"
+  },
+  {
+    "question": "Which of these architects is NOT associated with Deconstructivism?",
+    "options": ["Zaha Hadid", "Le Corbusier", "Peter Eisenman", "Daniel Libeskind"],
+    "answer": "Le Corbusier"
+  },
+  {
+    "question": "Which structure is a notable example of Frank Gehry's Deconstructivist work?",
+    "options": ["Villa Savoye", "Sagrada Familia", "Guggenheim Museum Bilbao", "The Glass House"],
+    "answer": "Guggenheim Museum Bilbao"
+  },
+  {
+    "question": "Which term best describes the philosophy behind Deconstructivist architecture?",
+    "options": ["Order", "Chaos", "Symmetry", "Minimalism"],
+    "answer": "Chaos"
+  },
+  {
+    "question": "Which famous architectural competition helped popularize Deconstructivism in 1988?",
+    "options": ["OMA Competition", "Venice Biennale", "Museum of Modern Art Exhibition", "Serpentine Pavilion"],
+    "answer": "Museum of Modern Art Exhibition"
+  },
+  {
+    "question": "Which Deconstructivist architect designed the Wexner Center for the Arts?",
+    "options": ["Rem Koolhaas", "Zaha Hadid", "Peter Eisenman", "Frank Gehry"],
+    "answer": "Peter Eisenman"
+  },
+  {
+    "question": "What philosophy is Deconstructivism in architecture primarily based on?",
+    "options": ["Postmodernism", "Structuralism", "Deconstruction", "Functionalism"],
+    "answer": "Deconstruction"
+  },
+  {
+    "question": "Which famous architect worked alongside Frank Gehry and is known for Deconstructivist works like the CCTV Headquarters in Beijing?",
+    "options": ["Rem Koolhaas", "Zaha Hadid", "Bernard Tschumi", "Peter Eisenman"],
+    "answer": "Rem Koolhaas"
+  },
+  {
+    "question": "Which architectural element is often distorted or fragmented in Deconstructivism?",
+    "options": ["Structure", "Color", "Material", "Sustainability"],
+    "answer": "Structure"
+  },
+  {
+    "question": "What term describes the lack of clear or straight lines in Deconstructivist architecture?",
+    "options": ["Non-linear", "Rectilinear", "Geometrical", "Symmetrical"],
+    "answer": "Non-linear"
+  },
+  {
+    "question": "Which Deconstructivist architect is known for their use of fluid forms and curves?",
+    "options": ["Daniel Libeskind", "Frank Gehry", "Zaha Hadid", "Rem Koolhaas"],
+    "answer": "Zaha Hadid"
+  },
+  {
+    "question": "What is a common critique of Deconstructivist architecture?",
+    "options": ["Overly simplistic", "Difficult to construct", "Too symmetrical", "Lack of creative design"],
+    "answer": "Difficult to construct"
+  },
+  {
+    "question": "Which building, designed by Daniel Libeskind, is noted for its sharp angles and unconventional form?",
+    "options": ["Empire State Building", "Sydney Opera House", "Jewish Museum Berlin", "Tate Modern"],
+    "answer": "Jewish Museum Berlin"
+  },
+  {
+    "question": "Which building by Zaha Hadid won the Stirling Prize in 2010?",
+    "options": ["Wexner Center", "MAXXI Museum", "Guggenheim Museum", "CCTV Headquarters"],
+    "answer": "MAXXI Museum"
+  },
+  {
+    "question": "What is the main goal of Deconstructivist architecture?",
+    "options": ["To simplify structure", "To break apart traditional forms", "To create energy-efficient buildings", "To emphasize symmetry"],
+    "answer": "To break apart traditional forms"
+  },
+  {
+    "question": "What does Deconstructivism in architecture primarily challenge?",
+    "options": ["Classical styles", "Form and function", "Material strength", "Building regulations"],
+    "answer": "Form and function"
+  },
+  {
+    "question": "Who is the architect behind the iconic Vitra Fire Station in Germany, a Deconstructivist work?",
+    "options": ["Peter Eisenman", "Rem Koolhaas", "Zaha Hadid", "Daniel Libeskind"],
+    "answer": "Zaha Hadid"
+  },
+  {
+    "question": "Which material is frequently used in Deconstructivist buildings?",
+    "options": ["Glass", "Wood", "Concrete", "Brick"],
+    "answer": "Concrete"
+  },
+  {
+    "question": "What is one of the design characteristics of Deconstructivist architecture?",
+    "options": ["Simple forms", "Regularity", "Asymmetry", "Minimal decoration"],
+    "answer": "Asymmetry"
+  }
+]
+
